@@ -1,0 +1,14 @@
+{
+  "endpoint": "https://api.openchargemap.io/v3/poi/",
+  "parameters": {
+    "output": "json",
+    "countrycode": "AU",
+    "maxresults": 10000,
+    "compact": "false",
+    "verbose": "false",
+    "boundingbox": "(-28.15379,141.440104),(-36.717259000000006,153.635875)"
+  },
+  "retrieved_at": "2026-09-20T17:53:21.915829+00:00",
+  "sha256": "dea7dbcba8d4e67b38a6c680487163ed709fefaa84d852563648e2bf3afdc2c0",
+  "records": 380
+}
