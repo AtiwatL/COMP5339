@@ -1,0 +1,32 @@
+{
+  "description": "Provenance record of source datasets retrieved by the COMP5339 Assignment 1 acquisition notebook.",
+  "generated_at": "2026-09-07T07:02:28+00:00",
+  "artefacts": {
+    "abs_asgs_sa4_boundaries": {
+      "source": "Australian Bureau of Statistics - Australian Statistical Geography Standard (ASGS) Edition 4, July 2026 - June 2031, SA4 digital boundaries",
+      "discovery_method": "HTML scrape of the ABS digital boundary files page (BeautifulSoup link matching)",
+      "url": "https://www.abs.gov.au/statistics/standards/australian-statistical-geography-standard-asgs/edition-4-july-2026-june-2031/access-and-downloads/digital-boundary-files/SA4_2026_AUST_SHP_GDA2020.zip",
+      "path": "data/raw/abs/SA4_2026_AUST_SHP_GDA2020.zip",
+      "bytes": 29543412,
+      "sha256": "d2df15ee57dac089457fd6ff27e342d4f6286ab0dbc587fff20cf05664657323",
+      "retrieved_at": "2026-09-07T07:02:28+00:00",
+      "format": "ESRI Shapefile (ZIP archive)",
+      "extracted_to": "data/raw/abs/sa4_shapefile",
+      "shapefile": "data/raw/abs/sa4_shapefile/SA4_2026_AUST_GDA2020.shp",
+      "crs": "GDA2020"
+    },
+    "tfnsw_ev_charging_locations": {
+      "source": "Transport for NSW - EV Charging Locations in NSW (mirrored on data.gov.au, dataset id 'nsw-2-ev-charging-locations')",
+      "discovery_method": "data.gov.au CKAN API (action/package_show)",
+      "url": "https://opendata.transport.nsw.gov.au/data/dataset/be1c4de4-4517-4bd0-8a09-2965ddfc7179/resource/7bbb6461-e52d-4fe7-ace4-a15c30198de0/download/ev_20251216.csv",
+      "path": "data/raw/tfnsw/ev_20251216.csv",
+      "bytes": 283033,
+      "sha256": "43970e7751b951ab459a1be7bfd6141756c60ff8aa797debf11c5a597109865a",
+      "retrieved_at": "2026-09-07T07:02:25+00:00",
+      "release_date": "2025-12-16",
+      "format": "CSV (UTF-8 with BOM)",
+      "data_rows": 1958,
+      "note": "Server reports an Excel Content-Type but serves CSV; read with encoding='utf-8-sig'."
+    }
+  }
+}
