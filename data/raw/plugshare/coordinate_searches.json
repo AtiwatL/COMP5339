@@ -2,175 +2,6 @@
   "actor_id": "iegpJoOXgbMKB6myS",
   "actor_name": "getascraper/plugshare-scraper",
   "searches": {
-    "ee1de1421461af5c4b1c1101357e7c5d354402936b9ab036dfe7bd91d25e32cc": {
-      "address": "01 Wallgrove Road, Sydney, 2766",
-      "addresses": [
-        "01 Wallgrove Road, Sydney, 2766"
-      ],
-      "latitude": -33.811004,
-      "longitude": 150.849597,
-      "charger_ids": [
-        2
-      ],
-      "operators": [
-        "BP Australia"
-      ],
-      "source_records": [
-        {
-          "charger_id": 2,
-          "station_address": "01 Wallgrove Road, Sydney, 2766",
-          "operator": "BP Australia",
-          "latitude": -33.811004,
-          "longitude": 150.849597
-        }
-      ],
-      "input": {
-        "searchAreas": [
-          {
-            "latitude": -33.811004,
-            "longitude": 150.849597,
-            "radiusKm": 1,
-            "label": "01 Wallgrove Road, Sydney, 2766"
-          }
-        ],
-        "maxItemsPerArea": 2,
-        "includeDetails": true,
-        "fastChargersOnly": false,
-        "includeReviews": false,
-        "onlyNewOrChanged": false
-      },
-      "status": "SUCCEEDED",
-      "requested_at": "2026-09-20T22:34:56.564672+00:00",
-      "run_id": "rlA3rfLWMXoAlrN4Z",
-      "checked_at": "2026-09-20T22:35:24.233474+00:00",
-      "dataset_id": "dWnhpKbSAnk3f40bC",
-      "usage_total_usd": 0,
-      "items": [
-        {
-          "id": 479757,
-          "name": "bp Eastern Creek",
-          "address": "1 Wallgrove Rd, Eastern Creek NSW 2766, Australia",
-          "latitude": -33.81098252490652,
-          "longitude": 150.85027527590557,
-          "plugScore": 10,
-          "stationCount": 2,
-          "availableStationCount": 2,
-          "inUseStationCount": 0,
-          "connectorTypes": [
-            "CCS2"
-          ],
-          "isFastCharger": true,
-          "comingSoon": false,
-          "underRepair": false,
-          "access": 1,
-          "networkNames": null,
-          "maxKilowatts": 150.88,
-          "outlets": [
-            {
-              "stationId": 1368803,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 3169157,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 150.88,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 1368803,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 3169158,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 150.88,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 1714407,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 3782273,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 150.88,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 1714407,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 3782274,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 150.88,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            }
-          ],
-          "cost": true,
-          "costDescription": "Please refer to bp pulse app for up to date pricing information",
-          "hours": null,
-          "phone": "+61 1300 002 738",
-          "description": "Dual CCS DC Rapid Charger capable of charging speeds up to 75kW",
-          "totalReviews": 384,
-          "reviews": null,
-          "updatedAt": "2026-09-06T08:38:54Z",
-          "createdAt": "2022-12-24T06:50:32Z",
-          "plugshareUrl": "https://www.plugshare.com/location/479757",
-          "scrapedAt": "2026-09-20T22:35:19.563Z"
-        }
-      ],
-      "download_complete": true,
-      "downloaded_at": "2026-09-20T22:35:24.481186+00:00"
-    },
     "8967bbaef2daf1f931719c77dfaf5374afdbb51cbf5b4a6bdf3a5b02872651fc": {
       "address": "1 - 7 Ross St, Wilcannia NSW 2836, Australia",
       "addresses": [
@@ -37542,308 +37373,6 @@
       "download_complete": true,
       "downloaded_at": "2026-09-20T23:57:24.260146+00:00"
     },
-    "70397e272544666d1c7e8396d23e77b024f0f2f44fc6c65b3345fbd055592347": {
-      "address": "401 Cabramatta Rd W, Cabramatta NSW 2166",
-      "addresses": [
-        "401 Cabramatta Rd W, Cabramatta NSW 2166"
-      ],
-      "latitude": -33.898778,
-      "longitude": 150.919791,
-      "charger_ids": [
-        530
-      ],
-      "operators": [
-        "Evie Networks"
-      ],
-      "source_records": [
-        {
-          "charger_id": 530,
-          "station_address": "401 Cabramatta Rd W, Cabramatta NSW 2166",
-          "operator": "Evie Networks",
-          "latitude": -33.898778,
-          "longitude": 150.919791
-        }
-      ],
-      "input": {
-        "searchAreas": [
-          {
-            "latitude": -33.898778,
-            "longitude": 150.919791,
-            "radiusKm": 1,
-            "label": "401 Cabramatta Rd W, Cabramatta NSW 2166"
-          }
-        ],
-        "maxItemsPerArea": 2,
-        "includeDetails": true,
-        "fastChargersOnly": false,
-        "includeReviews": false,
-        "onlyNewOrChanged": false
-      },
-      "status": "SUCCEEDED",
-      "requested_at": "2026-09-20T23:57:24.320123+00:00",
-      "run_id": "rSJTEMw8G0S4yL8Zz",
-      "checked_at": "2026-09-20T23:57:35.730707+00:00",
-      "dataset_id": "JqiXqMZR40NOSk2ZT",
-      "usage_total_usd": 0,
-      "items": [
-        {
-          "id": 345611,
-          "name": "Hungry Jack's - Cabramatta",
-          "address": "401 Cabramatta Rd W, Cabramatta NSW 2166, Australia",
-          "latitude": -33.898778,
-          "longitude": 150.919791,
-          "plugScore": 10,
-          "stationCount": 2,
-          "availableStationCount": 1,
-          "inUseStationCount": 1,
-          "connectorTypes": [
-            "CCS2",
-            "CHAdeMO"
-          ],
-          "isFastCharger": true,
-          "comingSoon": false,
-          "underRepair": false,
-          "access": 1,
-          "networkNames": null,
-          "maxKilowatts": 50.6,
-          "outlets": [
-            {
-              "stationId": 826709,
-              "network": {
-                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 60,
-                "name": "Evie Networks",
-                "phone": "1300463843",
-                "url": "https://goevie.com.au/"
-              },
-              "outletId": 2334128,
-              "connectorType": "CHAdeMO",
-              "connectorCode": 3,
-              "isDc": true,
-              "kilowatts": 50,
-              "powerType": "DC",
-              "status": "CHARGING"
-            },
-            {
-              "stationId": 826709,
-              "network": {
-                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 60,
-                "name": "Evie Networks",
-                "phone": "1300463843",
-                "url": "https://goevie.com.au/"
-              },
-              "outletId": 2334129,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 50.6,
-              "powerType": "DC",
-              "status": "CHARGING"
-            },
-            {
-              "stationId": 826832,
-              "network": {
-                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 60,
-                "name": "Evie Networks",
-                "phone": "1300463843",
-                "url": "https://goevie.com.au/"
-              },
-              "outletId": 2334330,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 50.6,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 826832,
-              "network": {
-                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 60,
-                "name": "Evie Networks",
-                "phone": "1300463843",
-                "url": "https://goevie.com.au/"
-              },
-              "outletId": 2334331,
-              "connectorType": "CHAdeMO",
-              "connectorCode": 3,
-              "isDc": true,
-              "kilowatts": 50,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            }
-          ],
-          "cost": true,
-          "costDescription": "Refer to Evie app for pricing",
-          "hours": null,
-          "phone": "+61 1300 463 843",
-          "description": "Evie 50kW DC chargers\nMS005A (Charger A) – CCS2 & CHAdeMO\nMS005B (Charger B) – CCS2 & CHAdeMO\n\n2 parking bays\n\nRefer to Evie app for pricing\nEnter carpark from Joseph Street/Cumberland Highway or Cabramatta Road W and proceed to the front of the Hungry Jacks. Chargers are located near the drive through entrance facing Cumberland Highway.\n\nhttps://evie.com.au/find-a-charger/\nContact number: +61 1300 463 843\n",
-          "totalReviews": 481,
-          "reviews": null,
-          "updatedAt": "2026-09-07T02:40:55Z",
-          "createdAt": "2021-10-31T05:12:57Z",
-          "plugshareUrl": "https://www.plugshare.com/location/345611",
-          "scrapedAt": "2026-09-20T23:57:30.294Z"
-        },
-        {
-          "id": 714265,
-          "name": "BP West Cabramatta",
-          "address": "90 Joseph St, Cabramatta NSW 2166, Australia",
-          "latitude": -33.89858822698097,
-          "longitude": 150.91994114220142,
-          "plugScore": 8.6,
-          "stationCount": 3,
-          "availableStationCount": 3,
-          "inUseStationCount": 0,
-          "connectorTypes": [
-            "CCS2",
-            "CHAdeMO"
-          ],
-          "isFastCharger": true,
-          "comingSoon": false,
-          "underRepair": false,
-          "access": 1,
-          "networkNames": null,
-          "maxKilowatts": 300,
-          "outlets": [
-            {
-              "stationId": 2654590,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 5001986,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 150,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 2672543,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 5020804,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 300,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 2672543,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 5020805,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 300,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 3525784,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 5916798,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 150,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 3525784,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.bp.com/en_au/australia/home/products-services/bppulse/faqs.html",
-                "description": "We’re energizing the future of transportation by developing fast and convenient charging solutions for consumer and commercial electric vehicles.",
-                "e164_phone_number": "+611300002738",
-                "formatted_phone_number": "+61 1300 002 738",
-                "id": 81,
-                "image": "https://assets.plugshare.com/network-images/bp_pulse_Australia.png",
-                "name": "bp pulse Australia",
-                "phone": "1300 002 738",
-                "url": "https://www.bp.com/en_au/australia/home.html"
-              },
-              "outletId": 5916799,
-              "connectorType": "CHAdeMO",
-              "connectorCode": 3,
-              "isDc": true,
-              "kilowatts": 62.5,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            }
-          ],
-          "cost": true,
-          "costDescription": "Please open charger details to view up to date pricing",
-          "hours": null,
-          "phone": null,
-          "description": "Close by to Evie Chargers at Hungry Jacks.",
-          "totalReviews": 25,
-          "reviews": null,
-          "updatedAt": "2026-09-10T22:08:02Z",
-          "createdAt": "2024-12-10T23:11:34Z",
-          "plugshareUrl": "https://www.plugshare.com/location/714265",
-          "scrapedAt": "2026-09-20T23:57:31.840Z"
-        }
-      ],
-      "download_complete": true,
-      "downloaded_at": "2026-09-20T23:57:36.020105+00:00"
-    },
     "1563a6af6960b8997a62bb9114dcce88c6fb9f46404994d7239f684812989b27": {
       "address": "405 Pacific Hwy, Sydney, 2064",
       "addresses": [
@@ -62308,177 +61837,6 @@
       "download_complete": true,
       "downloaded_at": "2026-09-21T00:34:41.230873+00:00"
     },
-    "33b2e78cb39c2c073d4cb3ba4312e33405f1ba9bb176f29f035ec4449650d231": {
-      "address": "Gipps St, Bega, 2550",
-      "addresses": [
-        "Gipps St, Bega, 2550"
-      ],
-      "latitude": -36.673247,
-      "longitude": 149.843047,
-      "charger_ids": [
-        865
-      ],
-      "operators": [
-        "NRMA"
-      ],
-      "source_records": [
-        {
-          "charger_id": 865,
-          "station_address": "Gipps St, Bega, 2550",
-          "operator": "NRMA",
-          "latitude": -36.673247,
-          "longitude": 149.843047
-        }
-      ],
-      "input": {
-        "searchAreas": [
-          {
-            "latitude": -36.673247,
-            "longitude": 149.843047,
-            "radiusKm": 1,
-            "label": "Gipps St, Bega, 2550"
-          }
-        ],
-        "maxItemsPerArea": 2,
-        "includeDetails": true,
-        "fastChargersOnly": false,
-        "includeReviews": false,
-        "onlyNewOrChanged": false
-      },
-      "status": "SUCCEEDED",
-      "requested_at": "2026-09-21T00:34:41.323868+00:00",
-      "run_id": "fxZt84totBedCi3ED",
-      "checked_at": "2026-09-21T00:35:03.550345+00:00",
-      "dataset_id": "aD5UqhZ1rsZcSdI5G",
-      "usage_total_usd": 0,
-      "items": [
-        {
-          "id": 200838,
-          "name": "Church St Car Park",
-          "address": "16 Church St, Bega NSW 2550, Australia",
-          "latitude": -36.672876,
-          "longitude": 149.843349,
-          "plugScore": 10,
-          "stationCount": 1,
-          "availableStationCount": 1,
-          "inUseStationCount": 0,
-          "connectorTypes": [
-            "CCS2"
-          ],
-          "isFastCharger": true,
-          "comingSoon": false,
-          "underRepair": false,
-          "access": 1,
-          "networkNames": null,
-          "maxKilowatts": 50,
-          "outlets": [
-            {
-              "stationId": 1681336,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.mynrma.com.au/evhelp",
-                "description": "The NRMA Electric Highways network is enhancing EV infrastructure in Australia by adding fast-charging stations across national routes, aiming to facilitate seamless electric vehicle travel across urban, rural, and remote regions.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 63,
-                "image": "https://assets.plugshare.com/network-images/nrma.png",
-                "name": "NRMA",
-                "phone": "1300233544",
-                "thumbnail_url": "https://assets.plugshare.com/network-images/nrma_thumb.png",
-                "url": "https://www.mynrma.com.au/"
-              },
-              "outletId": 3711195,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 50,
-              "powerType": "DC",
-              "status": "BLOCKED"
-            },
-            {
-              "stationId": 1681336,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.mynrma.com.au/evhelp",
-                "description": "The NRMA Electric Highways network is enhancing EV infrastructure in Australia by adding fast-charging stations across national routes, aiming to facilitate seamless electric vehicle travel across urban, rural, and remote regions.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 63,
-                "image": "https://assets.plugshare.com/network-images/nrma.png",
-                "name": "NRMA",
-                "phone": "1300233544",
-                "thumbnail_url": "https://assets.plugshare.com/network-images/nrma_thumb.png",
-                "url": "https://www.mynrma.com.au/"
-              },
-              "outletId": 4724166,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 50,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            }
-          ],
-          "cost": true,
-          "costDescription": "Payment options include the myNRMA app, the ChargeFox app, or Tap & Go. NRMA members receive a discounted rate when paying through the myNRMA app. For more details, visit: https://www.mynrma.com.au/electric-vehicles/charging.",
-          "hours": null,
-          "phone": "+61 1300 233 544",
-          "description": "NRMA DC Fast Charger, Tritium 50kW Unit with 2x CCS2.\n\nwww.mynrma.com.au",
-          "totalReviews": 3085,
-          "reviews": null,
-          "updatedAt": "2026-09-19T02:14:08Z",
-          "createdAt": "2019-08-01T23:37:07Z",
-          "plugshareUrl": "https://www.plugshare.com/location/200838",
-          "scrapedAt": "2026-09-21T00:34:56.596Z"
-        },
-        {
-          "id": 1840819,
-          "name": "Bega hospital",
-          "address": "15 Clark La, Bega NSW 2550, Australia",
-          "latitude": -36.6742897,
-          "longitude": 149.8432479,
-          "plugScore": null,
-          "stationCount": 1,
-          "availableStationCount": null,
-          "inUseStationCount": null,
-          "connectorTypes": [
-            "Type 2"
-          ],
-          "isFastCharger": false,
-          "comingSoon": false,
-          "underRepair": false,
-          "access": 1,
-          "networkNames": null,
-          "maxKilowatts": null,
-          "outlets": [
-            {
-              "stationId": 3266984,
-              "network": null,
-              "outletId": 5646005,
-              "connectorType": "Type 2",
-              "connectorCode": 7,
-              "isDc": false,
-              "kilowatts": null,
-              "powerType": "AC",
-              "status": null
-            }
-          ],
-          "cost": false,
-          "costDescription": null,
-          "hours": null,
-          "phone": null,
-          "description": null,
-          "totalReviews": 0,
-          "reviews": null,
-          "updatedAt": "2026-05-04T01:48:57Z",
-          "createdAt": "2026-05-04T01:48:57Z",
-          "plugshareUrl": "https://www.plugshare.com/location/1840819",
-          "scrapedAt": "2026-09-21T00:34:59.128Z"
-        }
-      ],
-      "download_complete": true,
-      "downloaded_at": "2026-09-21T00:35:03.911538+00:00"
-    },
     "681ea2c622ee435f5fb361cb97e42c6e612121a270f952424bbb9106c19d65e1": {
       "address": "Gouldsbury St Mosman NSW 2088 Australia",
       "addresses": [
@@ -67748,224 +67106,6 @@
       "download_complete": true,
       "downloaded_at": "2026-09-21T00:43:53.158318+00:00"
     },
-    "20ade51ab7fb91950e10d16b7ed3cc4d37d8925edf4a35f3a8ef60dca693f49e": {
-      "address": "Prospect St, Holbrook, 2644",
-      "addresses": [
-        "Prospect St, Holbrook, 2644"
-      ],
-      "latitude": -35.718152,
-      "longitude": 147.316019,
-      "charger_ids": [
-        942
-      ],
-      "operators": [
-        "NRMA"
-      ],
-      "source_records": [
-        {
-          "charger_id": 942,
-          "station_address": "Prospect St, Holbrook, 2644",
-          "operator": "NRMA",
-          "latitude": -35.718152,
-          "longitude": 147.316019
-        }
-      ],
-      "input": {
-        "searchAreas": [
-          {
-            "latitude": -35.718152,
-            "longitude": 147.316019,
-            "radiusKm": 1,
-            "label": "Prospect St, Holbrook, 2644"
-          }
-        ],
-        "maxItemsPerArea": 2,
-        "includeDetails": true,
-        "fastChargersOnly": false,
-        "includeReviews": false,
-        "onlyNewOrChanged": false
-      },
-      "status": "SUCCEEDED",
-      "requested_at": "2026-09-21T00:43:53.266204+00:00",
-      "run_id": "ANp3WZzkUiAt6iov7",
-      "checked_at": "2026-09-21T00:44:04.830487+00:00",
-      "dataset_id": "OhllBnZK5WmdVnqtd",
-      "usage_total_usd": 0,
-      "items": [
-        {
-          "id": 198556,
-          "name": "Fraser's Place",
-          "address": "7 Prospect St, Holbrook NSW 2644, Australia",
-          "latitude": -35.717574,
-          "longitude": 147.317769,
-          "plugScore": 8.8,
-          "stationCount": 2,
-          "availableStationCount": 2,
-          "inUseStationCount": 0,
-          "connectorTypes": [
-            "CCS2",
-            "CHAdeMO"
-          ],
-          "isFastCharger": true,
-          "comingSoon": false,
-          "underRepair": false,
-          "access": 1,
-          "networkNames": null,
-          "maxKilowatts": 180,
-          "outlets": [
-            {
-              "stationId": 3546054,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.mynrma.com.au/evhelp",
-                "description": "The NRMA Electric Highways network is enhancing EV infrastructure in Australia by adding fast-charging stations across national routes, aiming to facilitate seamless electric vehicle travel across urban, rural, and remote regions.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 63,
-                "image": "https://assets.plugshare.com/network-images/nrma.png",
-                "name": "NRMA",
-                "phone": "1300233544",
-                "thumbnail_url": "https://assets.plugshare.com/network-images/nrma_thumb.png",
-                "url": "https://www.mynrma.com.au/"
-              },
-              "outletId": 5937191,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 180,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 3546054,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.mynrma.com.au/evhelp",
-                "description": "The NRMA Electric Highways network is enhancing EV infrastructure in Australia by adding fast-charging stations across national routes, aiming to facilitate seamless electric vehicle travel across urban, rural, and remote regions.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 63,
-                "image": "https://assets.plugshare.com/network-images/nrma.png",
-                "name": "NRMA",
-                "phone": "1300233544",
-                "thumbnail_url": "https://assets.plugshare.com/network-images/nrma_thumb.png",
-                "url": "https://www.mynrma.com.au/"
-              },
-              "outletId": 5937192,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 180,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 3546055,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.mynrma.com.au/evhelp",
-                "description": "The NRMA Electric Highways network is enhancing EV infrastructure in Australia by adding fast-charging stations across national routes, aiming to facilitate seamless electric vehicle travel across urban, rural, and remote regions.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 63,
-                "image": "https://assets.plugshare.com/network-images/nrma.png",
-                "name": "NRMA",
-                "phone": "1300233544",
-                "thumbnail_url": "https://assets.plugshare.com/network-images/nrma_thumb.png",
-                "url": "https://www.mynrma.com.au/"
-              },
-              "outletId": 5937193,
-              "connectorType": "CCS2",
-              "connectorCode": 20,
-              "isDc": true,
-              "kilowatts": 180,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            },
-            {
-              "stationId": 3546055,
-              "network": {
-                "action_name": "Contact",
-                "action_url": "https://www.mynrma.com.au/evhelp",
-                "description": "The NRMA Electric Highways network is enhancing EV infrastructure in Australia by adding fast-charging stations across national routes, aiming to facilitate seamless electric vehicle travel across urban, rural, and remote regions.",
-                "e164_phone_number": "",
-                "formatted_phone_number": "",
-                "id": 63,
-                "image": "https://assets.plugshare.com/network-images/nrma.png",
-                "name": "NRMA",
-                "phone": "1300233544",
-                "thumbnail_url": "https://assets.plugshare.com/network-images/nrma_thumb.png",
-                "url": "https://www.mynrma.com.au/"
-              },
-              "outletId": 5937194,
-              "connectorType": "CHAdeMO",
-              "connectorCode": 3,
-              "isDc": true,
-              "kilowatts": 180,
-              "powerType": "DC",
-              "status": "AVAILABLE"
-            }
-          ],
-          "cost": true,
-          "costDescription": "Requires My NRMA app to use and pay for charging at this site. To find out more, visit https://www.mynrma.com.au/electric-vehicles/charging",
-          "hours": "10:00 AM - 4:00 PM",
-          "phone": "+61 1300 233 455",
-          "description": "NRMA EV Fast Charger network\n\nwww.mynrma.com.au",
-          "totalReviews": 2994,
-          "reviews": null,
-          "updatedAt": "2026-09-20T05:21:32Z",
-          "createdAt": "2019-07-19T10:00:40Z",
-          "plugshareUrl": "https://www.plugshare.com/location/198556",
-          "scrapedAt": "2026-09-21T00:43:58.643Z"
-        },
-        {
-          "id": 210016,
-          "name": "Holbrook SKYE Motel",
-          "address": "138 Albury Street, Holbrook NSW 2644, Australia",
-          "latitude": -35.719751,
-          "longitude": 147.316937,
-          "plugScore": 9,
-          "stationCount": 1,
-          "availableStationCount": null,
-          "inUseStationCount": null,
-          "connectorTypes": [
-            "Wall (AU/NZ)"
-          ],
-          "isFastCharger": false,
-          "comingSoon": false,
-          "underRepair": false,
-          "access": 1,
-          "networkNames": null,
-          "maxKilowatts": null,
-          "outlets": [
-            {
-              "stationId": 450017,
-              "network": null,
-              "outletId": 886443,
-              "connectorType": "Wall (AU/NZ)",
-              "connectorCode": 12,
-              "isDc": false,
-              "kilowatts": null,
-              "powerType": "AC",
-              "status": null
-            }
-          ],
-          "cost": true,
-          "costDescription": "Free for guests if motel. Not really useful unless you are staying there anyway",
-          "hours": null,
-          "phone": null,
-          "description": "In covered parking bays for guests there is a normal power point which works for trickle charging",
-          "totalReviews": 5,
-          "reviews": null,
-          "updatedAt": "2023-10-29T02:28:32Z",
-          "createdAt": "2019-10-08T08:49:09Z",
-          "plugshareUrl": "https://www.plugshare.com/location/210016",
-          "scrapedAt": "2026-09-21T00:43:59.729Z"
-        }
-      ],
-      "download_complete": true,
-      "downloaded_at": "2026-09-21T00:44:05.173422+00:00"
-    },
     "d53e2f51eb101f2d14b8912417c3009f85f12dd3648720788f5e0e19536395ee": {
       "address": "Queens Rd Five Dock NSW 2046 Australia",
       "addresses": [
@@ -70739,6 +69879,527 @@
       ],
       "download_complete": true,
       "downloaded_at": "2026-09-21T00:46:12.041135+00:00"
+    },
+    "0ae90ca73adef588005e3274a1d8d82f2d8d8515db8a54b7217423f4cc3ba0b8": {
+      "address": "188 Fernleigh Rd Glenfield Park NSW 2650 Australia",
+      "addresses": [
+        "188 Fernleigh Rd Glenfield Park NSW 2650 Australia"
+      ],
+      "latitude": -35.131774,
+      "longitude": 147.339846,
+      "charger_ids": [
+        1320
+      ],
+      "operators": [
+        "Tesla"
+      ],
+      "source_records": [
+        {
+          "charger_id": 1320,
+          "station_address": "188 Fernleigh Rd Glenfield Park NSW 2650 Australia",
+          "operator": "Tesla",
+          "latitude": -35.131774,
+          "longitude": 147.339846
+        }
+      ],
+      "input": {
+        "searchAreas": [
+          {
+            "latitude": -35.131774,
+            "longitude": 147.339846,
+            "radiusKm": 1,
+            "label": "188 Fernleigh Rd Glenfield Park NSW 2650 Australia"
+          }
+        ],
+        "maxItemsPerArea": 2,
+        "includeDetails": true,
+        "fastChargersOnly": false,
+        "includeReviews": false,
+        "onlyNewOrChanged": false
+      },
+      "status": "SUCCEEDED",
+      "requested_at": "2026-09-20T23:22:37.904342+00:00",
+      "run_id": "nMtgMcDiORrrkDNUu",
+      "checked_at": "2026-09-20T23:22:49.108919+00:00",
+      "dataset_id": "0Xa4GsE66f8ao404i",
+      "usage_total_usd": 0,
+      "items": [
+        {
+          "id": 548053,
+          "name": "Quality Hotel Rules Club Wagga (2)",
+          "address": "188 Fernleigh Rd, Wagga Wagga NSW 2650, Australia",
+          "latitude": -35.131005173084546,
+          "longitude": 147.3397758230567,
+          "plugScore": 10,
+          "stationCount": 6,
+          "availableStationCount": null,
+          "inUseStationCount": null,
+          "connectorTypes": [
+            "CCS2"
+          ],
+          "isFastCharger": true,
+          "comingSoon": false,
+          "underRepair": false,
+          "access": 1,
+          "networkNames": null,
+          "maxKilowatts": 250,
+          "outlets": [
+            {
+              "stationId": 1418491,
+              "network": {
+                "description": "",
+                "e164_phone_number": "+18777983752",
+                "formatted_phone_number": "+1 877-798-3752",
+                "id": 8,
+                "name": "Supercharger",
+                "phone": "8777983752",
+                "url": "http://www.teslamotors.com/supercharger"
+              },
+              "outletId": 3266996,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 250,
+              "powerType": "DC",
+              "status": null
+            },
+            {
+              "stationId": 1447072,
+              "network": {
+                "description": "",
+                "e164_phone_number": "+18777983752",
+                "formatted_phone_number": "+1 877-798-3752",
+                "id": 8,
+                "name": "Supercharger",
+                "phone": "8777983752",
+                "url": "http://www.teslamotors.com/supercharger"
+              },
+              "outletId": 3314225,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 250,
+              "powerType": "DC",
+              "status": null
+            },
+            {
+              "stationId": 1447073,
+              "network": {
+                "description": "",
+                "e164_phone_number": "+18777983752",
+                "formatted_phone_number": "+1 877-798-3752",
+                "id": 8,
+                "name": "Supercharger",
+                "phone": "8777983752",
+                "url": "http://www.teslamotors.com/supercharger"
+              },
+              "outletId": 3314226,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 250,
+              "powerType": "DC",
+              "status": null
+            },
+            {
+              "stationId": 1447074,
+              "network": {
+                "description": "",
+                "e164_phone_number": "+18777983752",
+                "formatted_phone_number": "+1 877-798-3752",
+                "id": 8,
+                "name": "Supercharger",
+                "phone": "8777983752",
+                "url": "http://www.teslamotors.com/supercharger"
+              },
+              "outletId": 3314227,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 250,
+              "powerType": "DC",
+              "status": null
+            },
+            {
+              "stationId": 1447075,
+              "network": {
+                "description": "",
+                "e164_phone_number": "+18777983752",
+                "formatted_phone_number": "+1 877-798-3752",
+                "id": 8,
+                "name": "Supercharger",
+                "phone": "8777983752",
+                "url": "http://www.teslamotors.com/supercharger"
+              },
+              "outletId": 3314228,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 250,
+              "powerType": "DC",
+              "status": null
+            },
+            {
+              "stationId": 1447076,
+              "network": {
+                "description": "",
+                "e164_phone_number": "+18777983752",
+                "formatted_phone_number": "+1 877-798-3752",
+                "id": 8,
+                "name": "Supercharger",
+                "phone": "8777983752",
+                "url": "http://www.teslamotors.com/supercharger"
+              },
+              "outletId": 3314229,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 250,
+              "powerType": "DC",
+              "status": null
+            }
+          ],
+          "cost": true,
+          "costDescription": "$0.70/kWh",
+          "hours": null,
+          "phone": "+61 1800 646 952",
+          "description": "Wagga Wagga, NSW\n(6) Superchargers, available 24/7, up to 250kW\nCCS compatibility\n\nAfter hours pin code required at automatic entrance gate. PIN number 2650#\n\nThis Supercharger is open to Tesla vehicles and Non-Tesla vehicles with CCS compatibility\n\nThe site has free access 7:00AM-9:00PM\nPin code Access required to open gate between 9:00pm-7:00AM\n\nCharging stalls are behind secured lockable automatic gate during these hours",
+          "totalReviews": 415,
+          "reviews": null,
+          "updatedAt": "2026-09-19T16:10:00Z",
+          "createdAt": "2023-08-09T10:12:19Z",
+          "plugshareUrl": "https://www.plugshare.com/location/548053",
+          "scrapedAt": "2026-09-20T23:22:43.716Z"
+        },
+        {
+          "id": 142424,
+          "name": "Quality Hotel Rules Club Wagga (1)",
+          "address": "188 Fernleigh Rd, Wagga Wagga NSW 2650, Australia",
+          "latitude": -35.130888,
+          "longitude": 147.340251,
+          "plugScore": 10,
+          "stationCount": 2,
+          "availableStationCount": null,
+          "inUseStationCount": null,
+          "connectorTypes": [
+            "Type 2"
+          ],
+          "isFastCharger": false,
+          "comingSoon": false,
+          "underRepair": false,
+          "access": 2,
+          "networkNames": null,
+          "maxKilowatts": 22,
+          "outlets": [
+            {
+              "stationId": 584040,
+              "network": {
+                "description": "Tesla destination chargers",
+                "e164_phone_number": "+18777983752",
+                "formatted_phone_number": "+1 877-798-3752",
+                "id": 35,
+                "name": "Tesla Destination",
+                "phone": "8777983752",
+                "url": "http://www.teslamotors.com/destination-charging"
+              },
+              "outletId": 1611821,
+              "connectorType": "Type 2",
+              "connectorCode": 7,
+              "isDc": false,
+              "kilowatts": 22,
+              "powerType": "AC",
+              "status": null
+            },
+            {
+              "stationId": 1447071,
+              "network": null,
+              "outletId": 3314224,
+              "connectorType": "Type 2",
+              "connectorCode": 7,
+              "isDc": false,
+              "kilowatts": null,
+              "powerType": "AC",
+              "status": null
+            }
+          ],
+          "cost": false,
+          "costDescription": null,
+          "hours": null,
+          "phone": "+61 2 6931 2000",
+          "description": "Inside the hotel secured car parking lot. For staff and guests only.",
+          "totalReviews": 85,
+          "reviews": null,
+          "updatedAt": "2026-09-20T02:38:01Z",
+          "createdAt": "2018-02-04T03:13:47Z",
+          "plugshareUrl": "https://www.plugshare.com/location/142424",
+          "scrapedAt": "2026-09-20T23:22:46.275Z"
+        }
+      ],
+      "download_complete": true,
+      "downloaded_at": "2026-09-20T23:22:49.373384+00:00"
+    },
+    "04fae436e1ae2ce70e8d4df88d3bb63f600aa2bf341da7f9a01722b593c26d2e": {
+      "address": "charger 284: 2 Rosenthal Ave, Lane Cove NSW 2066",
+      "addresses": [
+        "2 Rosenthal Ave, Lane Cove NSW 2066"
+      ],
+      "latitude": -33.813936,
+      "longitude": 151.169298,
+      "charger_ids": [
+        284
+      ],
+      "operators": [
+        "Evie Networks"
+      ],
+      "source_records": [
+        {
+          "charger_id": 284,
+          "station_address": "2 Rosenthal Ave, Lane Cove NSW 2066",
+          "operator": "Evie Networks",
+          "latitude": -33.813936,
+          "longitude": 151.169298
+        }
+      ],
+      "input": {
+        "searchAreas": [
+          {
+            "latitude": -33.813936,
+            "longitude": 151.169298,
+            "radiusKm": 1,
+            "label": "charger 284: 2 Rosenthal Ave, Lane Cove NSW 2066"
+          }
+        ],
+        "maxItemsPerArea": 2,
+        "includeDetails": true,
+        "fastChargersOnly": false,
+        "includeReviews": false,
+        "onlyNewOrChanged": false
+      },
+      "run_id": "aRQGPGByjAfKHRCNJ",
+      "status": "SUCCEEDED",
+      "dataset_id": "ZGge6diCg2JJQtGiv",
+      "items": [
+        {
+          "id": 353571,
+          "name": "The Canopy - Lane Cove",
+          "address": "2 Rosenthal Ave, Lane Cove NSW 2066, Australia",
+          "latitude": -33.813936,
+          "longitude": 151.169298,
+          "plugScore": 10,
+          "stationCount": 2,
+          "availableStationCount": 2,
+          "inUseStationCount": 0,
+          "connectorTypes": [
+            "CCS2"
+          ],
+          "isFastCharger": true,
+          "comingSoon": false,
+          "underRepair": false,
+          "access": 1,
+          "networkNames": null,
+          "maxKilowatts": 75.44,
+          "outlets": [
+            {
+              "stationId": 2560389,
+              "network": {
+                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
+                "e164_phone_number": "",
+                "formatted_phone_number": "",
+                "id": 60,
+                "name": "Evie Networks",
+                "phone": "1300463843",
+                "url": "https://goevie.com.au/"
+              },
+              "outletId": 4900729,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 75.44,
+              "powerType": "DC",
+              "status": "CHARGING"
+            },
+            {
+              "stationId": 2560389,
+              "network": {
+                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
+                "e164_phone_number": "",
+                "formatted_phone_number": "",
+                "id": 60,
+                "name": "Evie Networks",
+                "phone": "1300463843",
+                "url": "https://goevie.com.au/"
+              },
+              "outletId": 4900730,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 75.44,
+              "powerType": "DC",
+              "status": "AVAILABLE"
+            },
+            {
+              "stationId": 2560390,
+              "network": {
+                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
+                "e164_phone_number": "",
+                "formatted_phone_number": "",
+                "id": 60,
+                "name": "Evie Networks",
+                "phone": "1300463843",
+                "url": "https://goevie.com.au/"
+              },
+              "outletId": 4900731,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 75.44,
+              "powerType": "DC",
+              "status": "AVAILABLE"
+            },
+            {
+              "stationId": 2560390,
+              "network": {
+                "description": "Evie Networks is building Australia’s largest fast & ultra-fast charging network.  The network which will span right across Australia will feature 50kW – 350kW chargers at each site with both CHAdeMO and CCS2 connectors.",
+                "e164_phone_number": "",
+                "formatted_phone_number": "",
+                "id": 60,
+                "name": "Evie Networks",
+                "phone": "1300463843",
+                "url": "https://goevie.com.au/"
+              },
+              "outletId": 4900732,
+              "connectorType": "CCS2",
+              "connectorCode": 20,
+              "isDc": true,
+              "kilowatts": 75.44,
+              "powerType": "DC",
+              "status": "AVAILABLE"
+            }
+          ],
+          "cost": true,
+          "costDescription": "Refer to Evie app for pricing",
+          "hours": "Carpark open 7 days, 6AM to 1AM",
+          "phone": "+61 1300 463 843",
+          "description": "Evie 75kW DC chargers\nMS001A (Charger A) – Dual CCS2\nMS001B (Charger B) – Dual CCS2\n\n4 parking bays\n\nRefer to Evie app for pricing\nEnter the car park from the roundabout on Rosenthal Ave. Take the down ramps on the left to P2 level. Evie chargers on the rear wall of the elevators that face the escalators.\n\nhttps://evie.com.au/find-a-charger/\nContact number: +61 1300 463 843\n\n\nAC chargers on P3 - see separate entry\n\nAn ARENA Future Fuels Fund site.",
+          "totalReviews": 357,
+          "reviews": null,
+          "updatedAt": "2026-09-17T11:54:39Z",
+          "createdAt": "2021-12-17T11:38:44Z",
+          "plugshareUrl": "https://www.plugshare.com/location/353571",
+          "scrapedAt": "2026-09-23T21:01:00.918Z"
+        },
+        {
+          "id": 484537,
+          "name": "The Canopy Lane Cove (2)",
+          "address": "12 Rosenthal Ave, Lane Cove NSW 2066, Austral, Lane Cove 2066",
+          "latitude": -33.81397831555836,
+          "longitude": 151.16928075214958,
+          "plugScore": 10,
+          "stationCount": 4,
+          "availableStationCount": 3,
+          "inUseStationCount": 1,
+          "connectorTypes": [
+            "Type 2"
+          ],
+          "isFastCharger": false,
+          "comingSoon": false,
+          "underRepair": false,
+          "access": 1,
+          "networkNames": null,
+          "maxKilowatts": 22,
+          "outlets": [
+            {
+              "stationId": 1243960,
+              "network": {
+                "description": "The next generation of OCPP Management for EV Charge Points across Australia and New Zealand.",
+                "e164_phone_number": "+611300755087",
+                "formatted_phone_number": "+61 1300 755 087",
+                "id": 70,
+                "name": "Exploren",
+                "phone": "1300 755 087",
+                "url": "https://exploren.com.au/"
+              },
+              "outletId": 2972112,
+              "connectorType": "Type 2",
+              "connectorCode": 7,
+              "isDc": false,
+              "kilowatts": 22,
+              "powerType": "AC",
+              "status": "CHARGING"
+            },
+            {
+              "stationId": 1243991,
+              "network": {
+                "description": "The next generation of OCPP Management for EV Charge Points across Australia and New Zealand.",
+                "e164_phone_number": "+611300755087",
+                "formatted_phone_number": "+61 1300 755 087",
+                "id": 70,
+                "name": "Exploren",
+                "phone": "1300 755 087",
+                "url": "https://exploren.com.au/"
+              },
+              "outletId": 2972166,
+              "connectorType": "Type 2",
+              "connectorCode": 7,
+              "isDc": false,
+              "kilowatts": 22,
+              "powerType": "AC",
+              "status": "AVAILABLE"
+            },
+            {
+              "stationId": 1255041,
+              "network": {
+                "description": "The next generation of OCPP Management for EV Charge Points across Australia and New Zealand.",
+                "e164_phone_number": "+611300755087",
+                "formatted_phone_number": "+61 1300 755 087",
+                "id": 70,
+                "name": "Exploren",
+                "phone": "1300 755 087",
+                "url": "https://exploren.com.au/"
+              },
+              "outletId": 2990098,
+              "connectorType": "Type 2",
+              "connectorCode": 7,
+              "isDc": false,
+              "kilowatts": 22,
+              "powerType": "AC",
+              "status": "AVAILABLE"
+            },
+            {
+              "stationId": 1606108,
+              "network": {
+                "description": "The next generation of OCPP Management for EV Charge Points across Australia and New Zealand.",
+                "e164_phone_number": "+611300755087",
+                "formatted_phone_number": "+61 1300 755 087",
+                "id": 70,
+                "name": "Exploren",
+                "phone": "1300 755 087",
+                "url": "https://exploren.com.au/"
+              },
+              "outletId": 3562256,
+              "connectorType": "Type 2",
+              "connectorCode": 7,
+              "isDc": false,
+              "kilowatts": 22,
+              "powerType": "AC",
+              "status": "AVAILABLE"
+            }
+          ],
+          "cost": true,
+          "costDescription": null,
+          "hours": null,
+          "phone": null,
+          "description": null,
+          "totalReviews": 478,
+          "reviews": null,
+          "updatedAt": "2026-09-10T05:58:25Z",
+          "createdAt": "2023-01-19T18:52:21Z",
+          "plugshareUrl": "https://www.plugshare.com/location/484537",
+          "scrapedAt": "2026-09-23T21:01:01.953Z"
+        }
+      ],
+      "download_complete": true,
+      "downloaded_at": "2026-09-23T21:01:05.723844+00:00"
     }
   }
 }
